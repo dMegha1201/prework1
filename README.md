@@ -32,8 +32,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://user-images.githubusercontent.com/72991353/106529253-318ae380-6510-11eb-994b-4dc98bf23241.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
